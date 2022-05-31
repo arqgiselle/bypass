@@ -1,9 +1,12 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,MAAM,CAAC,GAAG,CAAA;EACN,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,IAAI;CACpB",
+    "mappings": "AEAA,AAAA,MAAM,CAAA;EAIF,SAAS,EAAE,MAAM;CAGf;;AAPN,AAAQ,MAAF,CAAE,GAAG,CAAA;EACP,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,kBAAkB;CACzB;;AAHL,AAKK,MALC,CAKD,CAAC,AAAA,MAAM,CAAA;EACJ,KAAK,EDNJ,SAAS;CCOb;;ACPL,AAAA,CAAC,CAAC;EACM,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CAEvB;;AAEP,AAAA,EAAE,CAAA;EACE,KAAK,EFRA,SAAS;EESd,UAAU,EAAE,MAAM;CACrB;;AACD,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;CACZ;;ACbD,AAAA,MAAM,CAAA;EACF,gBAAgB,EHAX,KAAK;CGEb;;AACD,AAAA,KAAK,CAAA;EACG,gBAAgB,EHJf,KAAK;EGKN,KAAK,EHNJ,SAAS;CGOb;;AACL,AAAA,UAAU,CAAA;EACN,KAAK,EHPA,KAAK;CGQb;;AACD,AAAA,YAAY,CAAA;EACR,KAAK,EHVA,KAAK;EGWV,UAAU,EAAE,MAAM;CACrB",
     "sources": [
         "../scss/style.scss",
-        "../scss/partial/_header.scss"
+        "../scss/partial/_variables.scss",
+        "../scss/partial/_header.scss",
+        "../scss/partial/_style.scss",
+        "../scss/partial/_footer.scss"
     ],
     "names": [],
     "file": "style.css"

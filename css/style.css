@@ -1,5 +1,46 @@
+header {
+  font-size: 1.5rem;
+}
+
 header img {
-  width: 250px;
-  margin-left: 40px;
+  width: 200px;
+  margin: 10px 0px 10px 50px;
+}
+
+header p:hover {
+  color: burlywood;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: burlywood;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+}
+
+footer {
+  background-color: black;
+}
+
+.card {
+  background-color: black;
+  color: burlywood;
+}
+
+.card-text {
+  color: white;
+}
+
+.footer-text {
+  color: white;
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
